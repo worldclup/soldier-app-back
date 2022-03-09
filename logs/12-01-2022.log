@@ -1,0 +1,16 @@
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 1588.392 ms [client]: okhttp/3.12.12
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 84.883 ms [client]: okhttp/3.12.12
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 1.767 ms [client]: okhttp/3.12.12
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 1.424 ms [client]: okhttp/3.12.12
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 1.521 ms [client]: okhttp/3.12.12
+[12: 24: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 4.262 ms [client]: okhttp/3.12.12
+[14: 06: 53] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 42.832 ms [client]: okhttp/3.12.12
+[14: 10: 49] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 7.570 ms [client]: okhttp/3.12.12
+[14: 12: 22] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 7.809 ms [client]: okhttp/3.12.12
+[14: 12: 58] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 10.517 ms [client]: okhttp/3.12.12
+[14: 13: 20] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 7.169 ms [client]: okhttp/3.12.12
+[14: 33: 45] [ip]: ::ffff:192.168.2.13 - [method]: POST [url]: /api/v1/user/upload_userpdf HTTP/1.1 [status]: 500 [response-time]: 5.175 ms [client]: okhttp/3.12.12
+[14: 33: 45] [ip]: ::ffff:192.168.2.13 - [method]: POST [url]: /api/v1/user/upload_userpdf HTTP/1.1 [status]: 500 [response-time]: 0.981 ms [client]: okhttp/3.12.12
+[14: 53: 07] [ip]: ::ffff:192.168.2.13 - [method]: POST [url]: /api/v1/user/upload_userpdf HTTP/1.1 [status]: - [response-time]: - ms [client]: okhttp/3.12.12
+[18: 23: 08] [ip]: ::ffff:192.168.2.3 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 14.100 ms [client]: okhttp/3.12.12
+[18: 23: 08] [ip]: ::ffff:192.168.2.3 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 5.035 ms [client]: okhttp/3.12.12

@@ -1,0 +1,7 @@
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 440.387 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 446.830 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 1.152 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 127.133 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 262.387 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 62.016 ms [client]: okhttp/3.12.12
+[09: 02: 46] [ip]: ::ffff:192.168.2.8 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 19.204 ms [client]: okhttp/3.12.12

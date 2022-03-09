@@ -1,0 +1,10 @@
+[10: 59: 47] [ip]: ::ffff:172.20.10.2 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 1954.344 ms [client]: okhttp/3.12.12
+[10: 59: 47] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 56.284 ms [client]: okhttp/3.12.12
+[10: 59: 47] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_des_user_all HTTP/1.1 [status]: 200 [response-time]: 156.631 ms [client]: okhttp/3.12.12
+[10: 59: 47] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_des_user_all HTTP/1.1 [status]: 304 [response-time]: 1.833 ms [client]: okhttp/3.12.12
+[11: 28: 31] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 24.024 ms [client]: okhttp/3.12.12
+[11: 28: 31] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 22.561 ms [client]: PostmanRuntime/7.29.0
+[11: 28: 31] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 19.418 ms [client]: okhttp/3.12.12
+[11: 28: 31] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 17.307 ms [client]: okhttp/3.12.12
+[11: 28: 31] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 17.942 ms [client]: okhttp/3.12.12
+[11: 28: 31] [ip]: ::ffff:172.20.10.2 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 24.663 ms [client]: okhttp/3.12.12

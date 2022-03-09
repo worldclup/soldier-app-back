@@ -1,0 +1,15 @@
+[06: 50: 14] [ip]: ::ffff:192.168.2.6 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 249.489 ms [client]: okhttp/3.12.12
+[06: 50: 14] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 27.133 ms [client]: okhttp/3.12.12
+[06: 50: 14] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 304 [response-time]: 26.362 ms [client]: okhttp/3.12.12
+[09: 18: 48] [ip]: ::ffff:192.168.2.6 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 195.944 ms [client]: okhttp/3.12.12
+[09: 18: 48] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 6.670 ms [client]: okhttp/3.12.12
+[09: 18: 48] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 7.383 ms [client]: okhttp/3.12.12
+[09: 24: 29] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 11.683 ms [client]: okhttp/3.12.12
+[09: 24: 29] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 7.131 ms [client]: okhttp/3.12.12
+[09: 24: 29] [ip]: ::ffff:192.168.2.6 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 184.215 ms [client]: okhttp/3.12.12
+[09: 24: 29] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 7.814 ms [client]: okhttp/3.12.12
+[09: 27: 50] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 5237.186 ms [client]: okhttp/3.12.12
+[09: 33: 53] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 4725.782 ms [client]: okhttp/3.12.12
+[09: 38: 51] [ip]: ::ffff:192.168.2.6 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 184.726 ms [client]: okhttp/3.12.12
+[09: 38: 51] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 22.022 ms [client]: okhttp/3.12.12
+[09: 40: 36] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 28.343 ms [client]: okhttp/3.12.12

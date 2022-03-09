@@ -1,0 +1,8 @@
+[06: 48: 46] [ip]: ::ffff:192.168.2.4 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 545.468 ms [client]: PostmanRuntime/7.29.0
+[06: 48: 46] [ip]: ::ffff:192.168.137.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 23.101 ms [client]: PostmanRuntime/7.29.0
+[06: 48: 46] [ip]: ::ffff:192.168.137.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 24.749 ms [client]: PostmanRuntime/7.29.0
+[06: 48: 46] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 16.912 ms [client]: PostmanRuntime/7.28.4
+[06: 48: 46] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_all_des HTTP/1.1 [status]: 404 [response-time]: 4.253 ms [client]: PostmanRuntime/7.28.4
+[06: 48: 46] [ip]: ::ffff:192.168.2.13 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 31.307 ms [client]: PostmanRuntime/7.28.4
+[06: 48: 46] [ip]: ::ffff:192.168.2.6 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 556.055 ms [client]: okhttp/3.12.12
+[06: 48: 46] [ip]: ::ffff:192.168.2.6 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 27.408 ms [client]: okhttp/3.12.12

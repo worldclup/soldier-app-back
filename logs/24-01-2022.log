@@ -1,0 +1,13 @@
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 1349.142 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 358.546 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 220.909 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 226.852 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 199.950 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 160.713 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 8.023 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 2314.303 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 2361.720 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 161.586 ms [client]: okhttp/3.12.12
+[11: 43: 25] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 6.739 ms [client]: okhttp/3.12.12
+[14: 05: 09] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 6.039 ms [client]: PostmanRuntime/7.26.8
+[15: 28: 15] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 11.576 ms [client]: PostmanRuntime/7.26.8

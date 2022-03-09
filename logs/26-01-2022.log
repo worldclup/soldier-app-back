@@ -1,0 +1,10 @@
+[08: 29: 01] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 447.024 ms [client]: PostmanRuntime/7.29.0
+[08: 29: 53] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_all_user HTTP/1.1 [status]: 200 [response-time]: 89.395 ms [client]: PostmanRuntime/7.29.0
+[08: 29: 53] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/upload_userpdf_admin HTTP/1.1 [status]: 200 [response-time]: 94.785 ms [client]: PostmanRuntime/7.29.0
+[08: 29: 53] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 304 [response-time]: 121.414 ms [client]: okhttp/3.12.12
+[08: 29: 53] [ip]: ::ffff:192.168.2.10 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 614.307 ms [client]: okhttp/3.12.12
+[08: 29: 53] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 14.164 ms [client]: okhttp/3.12.12
+[11: 57: 41] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/upload_userpdf_admin HTTP/1.1 [status]: 200 [response-time]: 930.001 ms [client]: PostmanRuntime/7.29.0
+[11: 57: 41] [ip]: ::ffff:192.168.2.10 - [method]: GET [url]: /api/v1/user/get_profile HTTP/1.1 [status]: 200 [response-time]: 19.524 ms [client]: okhttp/3.12.12
+[14: 47: 30] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 341.673 ms [client]: PostmanRuntime/7.29.0
+[16: 24: 23] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 170.731 ms [client]: PostmanRuntime/7.29.0
